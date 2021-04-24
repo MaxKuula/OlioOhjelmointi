@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ObjectProject</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="activitylevels">
+        <item>Sedentary</item>
+        <item>Light</item>
+        <item>Moderate</item>
+        <item>Active</item>
+        <item>Very Active</item>
+    </string-array>
+</resources>
